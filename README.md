@@ -1,2 +1,2 @@
-# Srinidhi-Yerabati-Portfolio
-My portfolio
+# Portfolio
+Host - Diverse projects & interests
